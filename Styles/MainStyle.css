@@ -1,0 +1,176 @@
+body {
+    background-color: #07081a;
+    color: #ffffff;
+    margin: 0;
+    font-family: Inter;
+}
+
+header {
+    display: flex;
+    height: 64px; 
+    vertical-align: middle;
+    font-family: Inter;
+}
+
+nav {
+    margin: 14px auto;
+}
+
+#Navigation {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    width: 1040px;
+    height: 36px;
+    margin: auto auto;
+}
+
+#Cloudio {
+    margin-left: 0;
+}
+
+#NavButtons {
+    display: inline;
+    margin: auto auto;
+}
+
+.NavButton {
+    display: inline;
+    margin: 6px 16px;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: left;
+}
+
+#HomeButton {
+    color: #b968de;
+}
+
+#AccButton {
+    margin-right: 0;
+}
+
+footer {
+    border-top: 1px solid #261C51;
+    display: flex;
+}
+
+#FooterText {
+    display: inline-block;
+    margin: 20px auto 20px 200px;
+    font-family: inter;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: left;
+
+}
+
+#SocialIcons {
+    margin: 20px 200px 20px auto;
+}
+
+#MainInfo {
+    width: 600px; 
+    height: 240px;
+    margin: 88px auto;
+    text-align: center;
+}
+
+#Title {
+    font-size: 48px;
+    font-weight: 800;
+    line-height: 52px;
+    margin: 0;
+}
+
+#Description {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    margin: 32px auto;
+}
+
+#Download {
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    padding: 12px 24px;
+    border-radius: 8px;
+    background-color: #9100D3;
+    margin: 0;
+}
+
+#Pictures {
+    width: 1054px; 
+    height: 72px;
+    margin: 88px auto;
+}
+
+#OdeaLabs {
+    margin: 0 90px 24px 72px;
+}
+
+#Stacked {
+    margin: 0 90px 24px 0;
+}
+
+#Magnolia {
+    margin: 0 0 24px 0;
+}
+
+#Sisyphus {
+    margin: 0 72px 24px 90px;
+}
+
+#DescriptionInfo {
+    display: flex;
+    width: 1040px;
+    height: 204px;
+    margin: 0 auto 88px auto;
+}
+
+.DescsTitles {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 28px;
+    margin: 16px 24px;
+}
+
+.DescsDescs {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    color: #C0C0C0;
+    margin: 0 24px 44px 24px;
+}
+
+#AbtLanguage {
+    width: 304px;
+    height: 204px;
+    margin; 0;
+    border: 1px solid #261c51;
+    border-radius: 8px;;
+}
+
+#AbtAI {
+    width: 304px;
+    height: 204px;
+    margin: 0 64px;
+    border: 1px solid #261c51;
+    border-radius: 8px;;
+}
+
+#AbtConvs {
+    width: 304px;
+    height: 204px;
+    margin: 0;
+    border: 1px solid #261c51;
+    border-radius: 8px;;
+}
+
+#ConvsDesc {
+    margin-bottom: 16px;
+}
